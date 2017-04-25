@@ -1,0 +1,11 @@
+#app_root .sider-bar {
+  background-color: #ddd;
+  width: 25%;
+  padding: 20px; }
+  #app_root .sider-bar h2 {
+    color: #555; }
+  #app_root .sider-bar ul {
+    padding: 0px; }
+  #app_root .sider-bar li {
+    list-style-type: none;
+    color: #444; }
